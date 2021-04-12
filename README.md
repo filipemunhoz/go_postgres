@@ -1,1 +1,1 @@
-# go_postgres
+# Operations in postgres with go
